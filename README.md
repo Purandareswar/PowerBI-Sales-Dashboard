@@ -35,6 +35,11 @@ This project presents an interactive Sales Dashboard built using Power BI to ana
 * PDF version of dashboard
 * Dashboard preview image
 
+🔗 Dataset Source
+
+Cleaned using my previous project:
+👉 (Add your data cleaning repo link here)
+
 ## 💡 Learnings
 
 * Hands-on experience with Power BI visuals
