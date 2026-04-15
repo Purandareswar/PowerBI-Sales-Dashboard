@@ -26,26 +26,26 @@ This project presents an interactive Sales Dashboard built using Power BI to ana
 
 * Technology category contributes highest sales
 * Sales peak observed around Month 10
-* South/West regions show strong profit performance
+* Strong performance from South/West regions
 * Consumer segment dominates overall sales
 
 ## 📁 Files Included
 
-* `.pbix` file (editable dashboard)
-* PDF version of dashboard
-* Dashboard preview image
+* `sales_dashboard.pbix`
+* `Sales_Dashboard.pdf`
+* `dashboard_preview.png`
 
-🔗 Dataset Source
+## 🔗 Dataset Source
 
 Cleaned using my previous project:
-👉 (Add your data cleaning repo link here)
+👉 https://github.com/Purandareswar/superstore-data-cleaning
 
 ## 💡 Learnings
 
-* Hands-on experience with Power BI visuals
-* Data storytelling and dashboard design
-* Working with filters and interactivity
+* Built interactive dashboards using Power BI
+* Applied data storytelling techniques
+* Learned filtering and visualization best practices
 
-## 🔗 Connect with Me
+## 📬 Connect with Me
 
-[LinkedIn](#)  <!-- Add your LinkedIn link here -->
+www.linkedin.com/in/t-reddy-purandareswar-a7321a280
